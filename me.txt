@@ -1,0 +1,6 @@
+{{#user}}
+Name: Sourav
+Skills: AWS, git, github, Python, linux, Docker, Kubernetes
+Email: souravchandel01@gmail.com
+{{/user}}
+
